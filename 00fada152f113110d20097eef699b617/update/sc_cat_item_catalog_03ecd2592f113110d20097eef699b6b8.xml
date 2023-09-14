@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Database Access">81bb52d52f113110d20097eef699b615</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-14 20:13:01</sys_created_on>
+        <sys_id>03ecd2592f113110d20097eef699b6b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Database Access</sys_name>
+        <sys_package display_value="One Flow to Rule Them All" source="x_1058864_one_flow">00fada152f113110d20097eef699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="One Flow to Rule Them All">00fada152f113110d20097eef699b617</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_03ecd2592f113110d20097eef699b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 20:13:19</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
