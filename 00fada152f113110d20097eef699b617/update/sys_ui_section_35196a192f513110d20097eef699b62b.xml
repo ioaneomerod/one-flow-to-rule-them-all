@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Item Details" section_id="35196a192f513110d20097eef699b62b" sys_domain="global" table="sc_cat_item" version="3" view="flow_router">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Item Details</caption>
+            <header>false</header>
+            <name>sc_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-14 21:06:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35196a192f513110d20097eef699b62b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="One Flow to Rule Them All" source="x_1058864_one_flow">00fada152f113110d20097eef699b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="One Flow to Rule Them All">00fada152f113110d20097eef699b617</sys_scope>
+            <sys_update_name>sys_ui_section_35196a192f513110d20097eef699b62b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-14 21:06:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Flow Router" name="flow_router">72d8e6192f513110d20097eef699b69b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

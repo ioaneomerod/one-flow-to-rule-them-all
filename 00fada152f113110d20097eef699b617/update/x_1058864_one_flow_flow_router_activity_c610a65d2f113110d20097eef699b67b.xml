@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1058864_one_flow_flow_router_activity">
+    <x_1058864_one_flow_flow_router_activity action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_type>Approval</activity_type>
+        <approval_group display_value="Database" name="Database">287ee6fea9fe198100ada7950d0b1b73</approval_group>
+        <catalog_item display_value="Database Access">81bb52d52f113110d20097eef699b615</catalog_item>
+        <order>100</order>
+        <sys_class_name>x_1058864_one_flow_flow_router_activity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-14 20:27:03</sys_created_on>
+        <sys_id>c610a65d2f113110d20097eef699b67b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="One Flow to Rule Them All" source="x_1058864_one_flow">00fada152f113110d20097eef699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="One Flow to Rule Them All">00fada152f113110d20097eef699b617</sys_scope>
+        <sys_update_name>x_1058864_one_flow_flow_router_activity_c610a65d2f113110d20097eef699b67b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 20:32:01</sys_updated_on>
+        <task_assignment_group/>
+        <task_description/>
+        <task_short_description/>
+    </x_1058864_one_flow_flow_router_activity>
+</record_update>

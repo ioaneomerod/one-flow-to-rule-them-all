@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="47cd96992f113110d20097eef699b692" extends="dl_matcher" label="Flow Router Activity" max_length="40" name="x_1058864_one_flow_flow_router_activity" type="collection">
+        <element choice="1" label="Activity type" max_length="40" name="activity_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval" sequence="0" value="Approval"/>
+                <element inactive_on_update="false" label="Task" sequence="1" value="Task"/>
+            </choice>
+        </element>
+        <element label="Approval group" max_length="32" name="approval_group" reference="sys_user_group" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Catalog item" mandatory="true" max_length="32" name="catalog_item" reference="sc_cat_item" type="reference"/>
+        <element label="Task assignment group" max_length="32" name="task_assignment_group" reference="sys_user_group" reference_qual="active=true^typeISEMPTY^ORtypeLIKE1cb8ab9bff500200158bffffffffff62^EQ" reference_qual_condition="active=true^typeISEMPTY^ORtypeLIKE1cb8ab9bff500200158bffffffffff62^EQ" type="reference"/>
+        <element label="Task description" max_length="4000" name="task_description" type="string"/>
+        <element label="Task short description" max_length="160" name="task_short_description" type="string"/>
+        <index name="index">
+            <element name="approval_group"/>
+        </index>
+        <index name="index2">
+            <element name="catalog_item"/>
+        </index>
+        <index name="index3">
+            <element name="task_assignment_group"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="catalog_item" label="Catalog item" language="en" table="x_1058864_one_flow_flow_router_activity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>catalog_item</element>
+            <help/>
+            <hint/>
+            <label>Catalog item</label>
+            <language>en</language>
+            <name>x_1058864_one_flow_flow_router_activity</name>
+            <plural>Catalog items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-14 20:20:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Catalog item</sys_name>
+            <sys_package display_value="One Flow to Rule Them All" source="x_1058864_one_flow">00fada152f113110d20097eef699b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="One Flow to Rule Them All">00fada152f113110d20097eef699b617</sys_scope>
+            <sys_update_name>sys_documentation_x_1058864_one_flow_flow_router_activity_catalog_item_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-14 20:20:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
